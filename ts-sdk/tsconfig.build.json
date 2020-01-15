@@ -1,0 +1,15 @@
+{
+  "extends": "../tsconfig.settings.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "noEmit": false,
+    "baseUrl": ".",
+    "paths": {
+      "@shared/*": ["../shared/dist/*"],
+      "~/*": ["./src/*"]
+    }
+  },
+  "include": ["./src/**/*"],
+  "references": [{"path": "../shared"}]
+}

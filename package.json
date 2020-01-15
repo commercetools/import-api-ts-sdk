@@ -1,0 +1,19 @@
+{
+  "name": "import-api-ts-sdk",
+  "version": "0.0.1",
+  "description": "commercetools import-api typescript sdk and importer example with commercetools-sunrise-data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commercetools/import-api-ts-sdk.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commercetools/import-api-ts-sdk/issues"
+  },
+  "scripts": {
+    "build": "tsc -b ."
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "types": ["node", "reflect-metadata"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "noEmit": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "composite": true
+  },
+  "exclude": ["**/node_modules", "**/dist"]
+}

@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    {"path": "./sunrise-data-importer/tsconfig.build.json"},
+    {"path": "./ts-sdk/tsconfig.build.json"}
+  ]
+}
