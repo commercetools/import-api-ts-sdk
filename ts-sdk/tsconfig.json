@@ -10,6 +10,5 @@
       "~/*": ["./src/*"]
     }
   },
-  "include": ["./src/**/*", "./test/**/*"],
-  "references": [{"path": "../shared"}]
+  "include": ["./src/**/*", "./test/**/*"]
 }
