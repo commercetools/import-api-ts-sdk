@@ -6,14 +6,23 @@
     "type": "git",
     "url": "git+https://github.com/commercetools/import-api-ts-sdk.git"
   },
+  "private": true,
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/commercetools/import-api-ts-sdk/issues"
   },
   "scripts": {
-    "build": "tsc -b ."
+    "build": "tsc -b .",
+    "build:updatePaths": "yarn workspaces run buildPath",
+    "postbuild": "yarn build:updatePaths"
   },
   "devDependencies": {
+    "rimraf": "^3.0.0",
+    "tscpaths": "^0.0.9",
     "typescript": "^3.7.4"
-  }
+  },
+  "workspaces": [
+    "sunrise-data-importer",
+    "ts-sdk"
+  ]
 }

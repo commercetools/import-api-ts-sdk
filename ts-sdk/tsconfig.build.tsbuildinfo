@@ -338,64 +338,64 @@
         "signature": "3bcb6ef7add9fc9d8e7220a285d840be97075ce7588e6ff3ee303615a3140948"
       },
       "../node_modules/@types/node/globals.d.ts": {
-        "version": "9a52fe500e1e0ed7362ae65094ec6d4f655033d21f873886211e252fc9c5b9c8",
-        "signature": "9a52fe500e1e0ed7362ae65094ec6d4f655033d21f873886211e252fc9c5b9c8"
+        "version": "05c42320698cb6eb4052d68ef35a0f3b88291b9275f13e9a188b96119844c5b6",
+        "signature": "05c42320698cb6eb4052d68ef35a0f3b88291b9275f13e9a188b96119844c5b6"
       },
       "../node_modules/@types/node/assert.d.ts": {
-        "version": "886ca158fd7e781ce501509505d3ac40879466f4dad4e9a0faa951d10b967d9d",
-        "signature": "886ca158fd7e781ce501509505d3ac40879466f4dad4e9a0faa951d10b967d9d"
+        "version": "7860312f33f0cf2c93500787d02c4cc43ea3d0c080d4781095ac7715d5da3316",
+        "signature": "7860312f33f0cf2c93500787d02c4cc43ea3d0c080d4781095ac7715d5da3316"
       },
       "../node_modules/@types/node/async_hooks.d.ts": {
-        "version": "9ee564486e9af1183affc44b4d96e15d43c4a9227407189434c55073296ef93f",
-        "signature": "9ee564486e9af1183affc44b4d96e15d43c4a9227407189434c55073296ef93f"
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
       },
       "../node_modules/@types/node/buffer.d.ts": {
         "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
         "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878"
       },
       "../node_modules/@types/node/child_process.d.ts": {
-        "version": "cbfb348ae36490c9319d92f1a09859625a06dfa0fb0d6c86cab5c2be2118afb4",
-        "signature": "cbfb348ae36490c9319d92f1a09859625a06dfa0fb0d6c86cab5c2be2118afb4"
+        "version": "4c50c12d023c7ba3b08aed969b723594bf74e5c5a6c80b421d8664bf22c3c072",
+        "signature": "4c50c12d023c7ba3b08aed969b723594bf74e5c5a6c80b421d8664bf22c3c072"
       },
       "../node_modules/@types/node/cluster.d.ts": {
-        "version": "0a4042f587664ff71318524eb5a5935d43e7e0a77a8ac0f033cfee8d583f64ce",
-        "signature": "0a4042f587664ff71318524eb5a5935d43e7e0a77a8ac0f033cfee8d583f64ce"
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
       },
       "../node_modules/@types/node/console.d.ts": {
         "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
         "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
       },
       "../node_modules/@types/node/constants.d.ts": {
-        "version": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
-        "signature": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720"
+        "version": "0279383034fae92db8097d0a41350293553599cc9c3c917b60e2542d0dfcbd44",
+        "signature": "0279383034fae92db8097d0a41350293553599cc9c3c917b60e2542d0dfcbd44"
       },
       "../node_modules/@types/node/crypto.d.ts": {
-        "version": "893eef8da80d206657fd930bd99f6708bce8e0cb7145d1ffc1ec24e16ddcf78f",
-        "signature": "893eef8da80d206657fd930bd99f6708bce8e0cb7145d1ffc1ec24e16ddcf78f"
+        "version": "3b6e751fc790e939efc4352e950b59be8c8e23c6e2bca2cf7359788b53f70485",
+        "signature": "3b6e751fc790e939efc4352e950b59be8c8e23c6e2bca2cf7359788b53f70485"
       },
       "../node_modules/@types/node/dgram.d.ts": {
-        "version": "7ecfe97b43aa6c8b8f90caa599d5648bb559962e74e6f038f73a77320569dd78",
-        "signature": "7ecfe97b43aa6c8b8f90caa599d5648bb559962e74e6f038f73a77320569dd78"
+        "version": "387656ed4d6444031a0042c38701167e77ff5f4698ada32737082fbee76b1db0",
+        "signature": "387656ed4d6444031a0042c38701167e77ff5f4698ada32737082fbee76b1db0"
       },
       "../node_modules/@types/node/dns.d.ts": {
         "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
         "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c"
       },
       "../node_modules/@types/node/domain.d.ts": {
-        "version": "4d4c83f77ac21a72252785baa5328a5612b0b6598d512f68b8cb14f7966d059e",
-        "signature": "4d4c83f77ac21a72252785baa5328a5612b0b6598d512f68b8cb14f7966d059e"
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
       },
       "../node_modules/@types/node/events.d.ts": {
-        "version": "cd6f4f8a318da5a62e65d033f7567f9969107d397c5a9c856d1d82d2ead9382c",
-        "signature": "cd6f4f8a318da5a62e65d033f7567f9969107d397c5a9c856d1d82d2ead9382c"
+        "version": "3ad728027671c2c3c829e21803f8d7a15b29d808293644d50d928213280c072d",
+        "signature": "3ad728027671c2c3c829e21803f8d7a15b29d808293644d50d928213280c072d"
       },
       "../node_modules/@types/node/fs.d.ts": {
-        "version": "c401255190dcb310e75a31d9a379d16502e3a681434b4f6a69857194c6a01748",
-        "signature": "c401255190dcb310e75a31d9a379d16502e3a681434b4f6a69857194c6a01748"
+        "version": "c8274050c46d390d164eaa3ac7f962c256cc5d636e49664cc87f747fab328994",
+        "signature": "c8274050c46d390d164eaa3ac7f962c256cc5d636e49664cc87f747fab328994"
       },
       "../node_modules/@types/node/http.d.ts": {
-        "version": "4a78ebdd7e156413225956925404741fb5fd9004f8980acd99a4e68076c698e5",
-        "signature": "4a78ebdd7e156413225956925404741fb5fd9004f8980acd99a4e68076c698e5"
+        "version": "4fd41897e21cc6def2735221fa7bd0986b44e44d224939a20f9e173ba2255646",
+        "signature": "4fd41897e21cc6def2735221fa7bd0986b44e44d224939a20f9e173ba2255646"
       },
       "../node_modules/@types/node/http2.d.ts": {
         "version": "272c8598c3a29a3fa3027bd0a645c5f49b3f7832dfcf8e47b7260843ec8a40f3",
@@ -410,20 +410,20 @@
         "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c"
       },
       "../node_modules/@types/node/module.d.ts": {
-        "version": "a8ddda059f6cd8b531f62dc2d66c8132bfacc6fae9d5da1dc4ad608712360c5f",
-        "signature": "a8ddda059f6cd8b531f62dc2d66c8132bfacc6fae9d5da1dc4ad608712360c5f"
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
       },
       "../node_modules/@types/node/net.d.ts": {
-        "version": "ffe8912b7c45288810c870b768190c6c097459930a587dd6ef0d900a5529a811",
-        "signature": "ffe8912b7c45288810c870b768190c6c097459930a587dd6ef0d900a5529a811"
+        "version": "358398fe4034395d85c87c319cca7a04001434b13dc68d067481ecb374385bfc",
+        "signature": "358398fe4034395d85c87c319cca7a04001434b13dc68d067481ecb374385bfc"
       },
       "../node_modules/@types/node/os.d.ts": {
-        "version": "0e12698313f413a9896fd433eb8fe205ba62af22675131dd67bef38c2b67c5d0",
-        "signature": "0e12698313f413a9896fd433eb8fe205ba62af22675131dd67bef38c2b67c5d0"
+        "version": "d9bc6f1917c24d862a68d2633e4a32fd586bfe3e412e5d11fd07d8266b94ced5",
+        "signature": "d9bc6f1917c24d862a68d2633e4a32fd586bfe3e412e5d11fd07d8266b94ced5"
       },
       "../node_modules/@types/node/path.d.ts": {
-        "version": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
-        "signature": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35"
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
       },
       "../node_modules/@types/node/perf_hooks.d.ts": {
         "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
@@ -446,12 +446,12 @@
         "signature": "d08dfb553aa396ac399e7c67e24f6b964b12a49e99d245009c7c579827f6d5f2"
       },
       "../node_modules/@types/node/repl.d.ts": {
-        "version": "6308155ea25177e03cd319896c815b5763371f1131e40656695b970f2e3e6733",
-        "signature": "6308155ea25177e03cd319896c815b5763371f1131e40656695b970f2e3e6733"
+        "version": "30b9c2c0949e27506c7e751bd51749ca5ecb0d0a3ea854064039ffaa3707fad4",
+        "signature": "30b9c2c0949e27506c7e751bd51749ca5ecb0d0a3ea854064039ffaa3707fad4"
       },
       "../node_modules/@types/node/stream.d.ts": {
-        "version": "8a23e1890c968386be7b9a7f9d9abda6e9515a9b429b7b93985fefa9e9430f4e",
-        "signature": "8a23e1890c968386be7b9a7f9d9abda6e9515a9b429b7b93985fefa9e9430f4e"
+        "version": "32b0ae0240af34cb90ab2f071bd4da6721bdce7d547ad3bbc2af3723b8e8f812",
+        "signature": "32b0ae0240af34cb90ab2f071bd4da6721bdce7d547ad3bbc2af3723b8e8f812"
       },
       "../node_modules/@types/node/string_decoder.d.ts": {
         "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
@@ -474,24 +474,24 @@
         "signature": "df905913ad47e24b6cb41d33f0c1f500bf9c4befe4325413a7644c9eb1e7965c"
       },
       "../node_modules/@types/node/url.d.ts": {
-        "version": "c0e424dcc169a594c973e096f256f92ed36cce444e7d38e52ed4be5def47bcdd",
-        "signature": "c0e424dcc169a594c973e096f256f92ed36cce444e7d38e52ed4be5def47bcdd"
+        "version": "ae25aec5ed3795a3edfc356a7bc091554917ad0e0009a3cdffd7115ba22bd28d",
+        "signature": "ae25aec5ed3795a3edfc356a7bc091554917ad0e0009a3cdffd7115ba22bd28d"
       },
       "../node_modules/@types/node/util.d.ts": {
-        "version": "f883ae99a336850c40718c63f395cff612efcf05092933009072d70a13d50aa7",
-        "signature": "f883ae99a336850c40718c63f395cff612efcf05092933009072d70a13d50aa7"
+        "version": "bf237fb2ca1ac62fde63e5f8178a9030e4d6b11987744007272f03a9deec6f76",
+        "signature": "bf237fb2ca1ac62fde63e5f8178a9030e4d6b11987744007272f03a9deec6f76"
       },
       "../node_modules/@types/node/v8.d.ts": {
-        "version": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
-        "signature": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953"
+        "version": "4407bd5f1d6f748590ba125195eb1d7a003c2de2f3b057456d3ac76a742d2561",
+        "signature": "4407bd5f1d6f748590ba125195eb1d7a003c2de2f3b057456d3ac76a742d2561"
       },
       "../node_modules/@types/node/vm.d.ts": {
         "version": "bf244a366e8ee68acda125761c6e337c8795b37eef05947d62f89b584de926b3",
         "signature": "bf244a366e8ee68acda125761c6e337c8795b37eef05947d62f89b584de926b3"
       },
       "../node_modules/@types/node/worker_threads.d.ts": {
-        "version": "37c509408ec3526151cdcb8b6d62928c3835652c8c635f65e28c28a8b1f35910",
-        "signature": "37c509408ec3526151cdcb8b6d62928c3835652c8c635f65e28c28a8b1f35910"
+        "version": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "signature": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb"
       },
       "../node_modules/@types/node/zlib.d.ts": {
         "version": "f409183966a1dd93d3a9cd1d54fbeb85c73101e87cd5b19467c5e37b252f3fd8",
@@ -506,8 +506,8 @@
         "signature": "1ed55651f38540dba21f4a864bd89834ddb552446dce8c8a5f9dc0b44ce0b024"
       },
       "../node_modules/@types/node/ts3.2/util.d.ts": {
-        "version": "ffc1cd688606ad1ddb59a40e8f3defbde907af2a3402d1d9ddf69accb2903f07",
-        "signature": "ffc1cd688606ad1ddb59a40e8f3defbde907af2a3402d1d9ddf69accb2903f07"
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
       },
       "../node_modules/@types/node/ts3.2/globals.d.ts": {
         "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
@@ -516,12 +516,17 @@
       "../node_modules/@types/node/ts3.2/index.d.ts": {
         "version": "6e19418b881b57998d218487d41d85534c7fa5ab329bbc72afe571e7683d774a",
         "signature": "6e19418b881b57998d218487d41d85534c7fa5ab329bbc72afe571e7683d774a"
+      },
+      "../node_modules/reflect-metadata/index.d.ts": {
+        "version": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
+        "signature": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90"
       }
     },
     "options": {
       "target": 5,
       "types": [
-        "node"
+        "node",
+        "reflect-metadata"
       ],
       "module": 1,
       "moduleResolution": 2,
@@ -1227,8 +1232,6 @@
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@types/node/constants.d.ts": [
-        "../node_modules/@types/node/os.d.ts",
-        "../node_modules/@types/node/crypto.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -1317,7 +1320,6 @@
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@types/node/module.d.ts": [
-        "../node_modules/@types/node/url.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -1537,6 +1539,12 @@
         "../node_modules/@types/node/ts3.2/globals.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/reflect-metadata/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -1732,13 +1740,210 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "./src/generated/client/api-root.ts": [
-        "./src/generated/base/common-types.ts",
-        "./src/generated/client/by-project-key-request-builder.ts"
+      "./src/generated/base/local-common-types.ts": [
+        "./src/generated/base/common-types.ts"
       ],
       "./src/generated/base/requests-utils.ts": [
         "./src/generated/base/common-types.ts",
         "./src/generated/base/local-common-types.ts"
+      ],
+      "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts"
+      ],
+      "./src/generated/models/categories.ts": [
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/models/prices.ts": [
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/models/products.ts": [
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/models/producttypes.ts": [
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/models/productvariants.ts": [
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/models/errors.ts": [
+        "./src/generated/models/productvariants.ts",
+        "./src/generated/models/prices.ts",
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/models/importoperations.ts": [
+        "./src/generated/models/common.ts",
+        "./src/generated/models/errors.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
+        "./src/generated/models/common.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/models/importrequests.ts": [
+        "./src/generated/models/importoperations.ts",
+        "./src/generated/models/categories.ts",
+        "./src/generated/models/products.ts",
+        "./src/generated/models/producttypes.ts",
+        "./src/generated/models/productvariants.ts",
+        "./src/generated/models/prices.ts"
+      ],
+      "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
+        "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
+        "./src/generated/models/importrequests.ts"
+      ],
+      "./src/generated/client/categories/by-project-key-categories-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-request-builder.ts"
+      ],
+      "./src/generated/models/importsinks.ts": [
+        "./src/generated/models/common.ts"
+      ],
+      "./src/generated/client/import-sinks/by-project-key-import-sinks-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importsinks.ts"
+      ],
+      "./src/generated/client/import-sinks/by-project-key-import-sinks-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-sinks/by-project-key-import-sinks-by-import-sink-key-request-builder.ts",
+        "./src/generated/models/importsinks.ts"
+      ],
+      "./src/generated/client/import-summaries/by-project-key-import-summaries-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importsummaries.ts"
+      ],
+      "./src/generated/client/import-summaries/by-project-key-import-summaries-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-summaries/by-project-key-import-summaries-import-sink-key-by-import-sink-key-request-builder.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
+        "./src/generated/models/common.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts"
+      ],
+      "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
+        "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
+        "./src/generated/models/importrequests.ts"
+      ],
+      "./src/generated/client/prices/by-project-key-prices-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-request-builder.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
+        "./src/generated/models/common.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operation/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts"
+      ],
+      "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operation/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts"
+      ],
+      "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
+        "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
+        "./src/generated/models/importrequests.ts"
+      ],
+      "./src/generated/client/product-types/by-project-key-product-types-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-request-builder.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
+        "./src/generated/models/common.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts"
+      ],
+      "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
+        "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
+        "./src/generated/models/importrequests.ts"
+      ],
+      "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-request-builder.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
+        "./src/generated/models/common.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operation/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts"
+      ],
+      "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operation/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts"
+      ],
+      "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
+        "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
+        "./src/generated/models/importrequests.ts"
+      ],
+      "./src/generated/client/product-variants/by-project-key-product-variants-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-request-builder.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
+        "./src/generated/models/common.ts",
+        "./src/generated/models/importoperations.ts"
+      ],
+      "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts"
+      ],
+      "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
+        "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
+        "./src/generated/models/importrequests.ts"
+      ],
+      "./src/generated/client/products/by-project-key-products-request-builder.ts": [
+        "./src/generated/base/requests-utils.ts",
+        "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-request-builder.ts"
       ],
       "./src/generated/client/by-project-key-request-builder.ts": [
         "./src/generated/base/requests-utils.ts",
@@ -1751,206 +1956,9 @@
         "./src/generated/client/product-variants/by-project-key-product-variants-request-builder.ts",
         "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-request-builder.ts"
       ],
-      "./src/generated/client/products/by-project-key-products-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
-        "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
-        "./src/generated/models/importrequests.ts"
-      ],
-      "./src/generated/client/products/by-project-key-products-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
-        "./src/generated/models/common.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-products-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/product-variants/by-project-key-product-variants-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
-        "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
-        "./src/generated/models/importrequests.ts"
-      ],
-      "./src/generated/client/product-variants/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operation/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts"
-      ],
-      "./src/generated/client/import-operation/by-project-key-product-variants-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
-        "./src/generated/models/common.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-product-variants-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
-        "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
-        "./src/generated/models/importrequests.ts"
-      ],
-      "./src/generated/client/product-variant-patches/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
-        "./src/generated/models/common.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-product-variant-patches-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/product-types/by-project-key-product-types-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
-        "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
-        "./src/generated/models/importrequests.ts"
-      ],
-      "./src/generated/client/product-types/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operation/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts"
-      ],
-      "./src/generated/client/import-operation/by-project-key-product-types-import-sink-key-by-import-sink-key-resource-key-by-resource-key-import-operation-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
-        "./src/generated/models/common.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-product-types-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/prices/by-project-key-prices-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
-        "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
-        "./src/generated/models/importrequests.ts"
-      ],
-      "./src/generated/client/prices/by-project-key-prices-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
-        "./src/generated/models/common.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-prices-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-summaries/by-project-key-import-summaries-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-summaries/by-project-key-import-summaries-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/import-summaries/by-project-key-import-summaries-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importsummaries.ts"
-      ],
-      "./src/generated/client/import-sinks/by-project-key-import-sinks-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-sinks/by-project-key-import-sinks-by-import-sink-key-request-builder.ts",
-        "./src/generated/models/importsinks.ts"
-      ],
-      "./src/generated/client/import-sinks/by-project-key-import-sinks-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importsinks.ts"
-      ],
-      "./src/generated/client/categories/by-project-key-categories-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-request-builder.ts"
-      ],
-      "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts",
-        "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-request-builder.ts",
-        "./src/generated/models/importrequests.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts",
-        "./src/generated/models/common.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/import-operations/by-project-key-categories-import-sink-key-by-import-sink-key-import-operations-by-id-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts",
-        "./src/generated/models/importoperations.ts"
-      ],
-      "./src/generated/client/categories/by-project-key-categories-import-sink-key-by-import-sink-key-resource-key-by-resource-key-request-builder.ts": [
-        "./src/generated/base/requests-utils.ts"
-      ],
-      "./src/generated/base/local-common-types.ts": [
-        "./src/generated/base/common-types.ts"
-      ],
-      "./src/generated/models/categories.ts": [
-        "./src/generated/models/common.ts"
-      ],
-      "./src/generated/models/importrequests.ts": [
-        "./src/generated/models/importoperations.ts",
-        "./src/generated/models/categories.ts",
-        "./src/generated/models/products.ts",
-        "./src/generated/models/producttypes.ts",
-        "./src/generated/models/productvariants.ts",
-        "./src/generated/models/prices.ts"
-      ],
-      "./src/generated/models/importsinks.ts": [
-        "./src/generated/models/common.ts"
-      ],
-      "./src/generated/models/importoperations.ts": [
-        "./src/generated/models/common.ts",
-        "./src/generated/models/errors.ts"
-      ],
-      "./src/generated/models/errors.ts": [
-        "./src/generated/models/productvariants.ts",
-        "./src/generated/models/prices.ts",
-        "./src/generated/models/common.ts"
-      ],
-      "./src/generated/models/productvariants.ts": [
-        "./src/generated/models/common.ts"
-      ],
-      "./src/generated/models/producttypes.ts": [
-        "./src/generated/models/common.ts"
-      ],
-      "./src/generated/models/products.ts": [
-        "./src/generated/models/common.ts"
-      ],
-      "./src/generated/models/prices.ts": [
-        "./src/generated/models/common.ts"
+      "./src/generated/client/api-root.ts": [
+        "./src/generated/base/common-types.ts",
+        "./src/generated/client/by-project-key-request-builder.ts"
       ],
       "../node_modules/@types/node/globals.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
@@ -1959,6 +1967,282 @@
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@types/node/assert.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/async_hooks.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/buffer.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/dns.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/os.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/path.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/punycode.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/querystring.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/string_decoder.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/timers.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/trace_events.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/util.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/vm.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -2008,223 +2292,8 @@
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/@types/node/ts3.2/index.d.ts": [
-        "../node_modules/@types/node/base.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts",
-        "../node_modules/@types/node/ts3.2/globals.d.ts",
+      "../node_modules/@types/node/ts3.2/fs.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts"
-      ],
-      "../node_modules/@types/node/async_hooks.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/perf_hooks.d.ts": [
-        "../node_modules/@types/node/async_hooks.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/buffer.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/child_process.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/cluster.d.ts": [
-        "../node_modules/@types/node/child_process.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/console.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/constants.d.ts": [
-        "../node_modules/@types/node/os.d.ts",
-        "../node_modules/@types/node/crypto.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/crypto.d.ts": [
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/tls.d.ts": [
-        "../node_modules/@types/node/crypto.d.ts",
-        "../node_modules/@types/node/dns.d.ts",
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/https.d.ts": [
-        "../node_modules/@types/node/tls.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/url.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/http2.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/tls.d.ts",
-        "../node_modules/@types/node/url.d.ts",
-        "../node_modules/@types/node/http.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/dgram.d.ts": [
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/dns.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/dns.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/net.d.ts": [
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/dns.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/tty.d.ts": [
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/process.d.ts": [
-        "../node_modules/@types/node/tty.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/http.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/url.d.ts",
-        "../node_modules/@types/node/net.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/domain.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/events.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/worker_threads.d.ts": [
-        "../node_modules/@types/node/vm.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/stream.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/zlib.d.ts": [
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/v8.d.ts": [
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/readline.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/repl.d.ts": [
-        "../node_modules/@types/node/readline.d.ts",
-        "../node_modules/@types/node/vm.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/fs.d.ts": [
-        "../node_modules/@types/node/stream.d.ts",
-        "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/url.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/ts3.2/globals.d.ts": [
-        "../node_modules/@types/node/globals.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2233,80 +2302,22 @@
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts"
       ],
-      "../node_modules/@types/node/ts3.2/fs.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/vm.d.ts": [
+      "../node_modules/@types/node/ts3.2/globals.d.ts": [
+        "../node_modules/@types/node/globals.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/@types/node/util.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
+      "../node_modules/@types/node/ts3.2/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/url.d.ts": [
-        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts",
+        "../node_modules/@types/node/ts3.2/globals.d.ts",
         "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
+        "../node_modules/@types/node/util.d.ts"
       ],
-      "../node_modules/@types/node/module.d.ts": [
-        "../node_modules/@types/node/url.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/trace_events.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/timers.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/string_decoder.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/querystring.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/punycode.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/path.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/os.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/node/inspector.d.ts": [
-        "../node_modules/@types/node/events.d.ts",
+      "../node_modules/reflect-metadata/index.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -2314,6 +2325,7 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
+      "../node_modules/@types/node/globals.d.ts",
       "./src/generated/base/common-types.ts",
       "./src/generated/base/local-common-types.ts",
       "./src/generated/base/requests-utils.ts",
@@ -2366,7 +2378,6 @@
       "./src/generated/client/products/by-project-key-products-request-builder.ts",
       "./src/generated/client/by-project-key-request-builder.ts",
       "./src/generated/client/api-root.ts",
-      "../node_modules/@types/node/globals.d.ts",
       "../node_modules/@types/node/assert.d.ts",
       "../node_modules/@types/node/async_hooks.d.ts",
       "../node_modules/@types/node/buffer.d.ts",
@@ -2411,10 +2422,7 @@
       "../node_modules/@types/node/ts3.2/util.d.ts",
       "../node_modules/@types/node/ts3.2/globals.d.ts",
       "../node_modules/@types/node/ts3.2/index.d.ts",
-      "../node_modules/typescript/lib/lib.es2015.d.ts",
-      "../node_modules/typescript/lib/lib.es2016.d.ts",
-      "../node_modules/typescript/lib/lib.es2017.d.ts",
-      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/reflect-metadata/index.d.ts",
       "../node_modules/typescript/lib/lib.es2018.full.d.ts",
       "../node_modules/typescript/lib/lib.esnext.bigint.d.ts",
       "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
@@ -2442,6 +2450,10 @@
       "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
       "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
       "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
       "../node_modules/typescript/lib/lib.es5.d.ts"
     ]
   },
