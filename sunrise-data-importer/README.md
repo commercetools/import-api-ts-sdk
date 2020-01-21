@@ -9,7 +9,7 @@ This module uses https://github.com/commercetools/commercetools-sunrise-data to 
 | SUNRISE_DATA_CLIENT_ID     | the ctp project client id                   | needs scopes `manage_products`, `manage_import_sinks`              |
 | SUNRISE_DATA_CLIENT_SECRET | the ctp project client secret               |
 | CTP_PROJECT_KEY            | the ctp project key                         |
-| SUNRISE_DATA_PATH          | the path to the sunrise data project folder |
+| SUNRISE_DATA_PATH          | the path to the sunrise data project folder | e.g., `.../projects/commercetools/commercetools-sunrise-data`      |
 | IT_TEST_URL                | the import api url to run against           | defaults to `https://import-eu.europe-west1.gcp.commercetools.com` |
 
 ## How to start the import
