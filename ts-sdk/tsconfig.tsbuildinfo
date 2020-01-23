@@ -547,14 +547,6 @@
       "rootDir": "./src",
       "declaration": true,
       "baseUrl": "./",
-      "paths": {
-        "@shared/*": [
-          "../shared/dist/*"
-        ],
-        "~/*": [
-          "./src/*"
-        ]
-      },
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {

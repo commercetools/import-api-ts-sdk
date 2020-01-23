@@ -6,10 +6,8 @@
     "noEmit": false,
     "baseUrl": ".",
     "paths": {
-      "@shared/*": ["../shared/dist/*"],
       "~/*": ["./src/*"]
     }
   },
-  "include": ["./src/**/*"],
-  "references": [{"path": "../shared"}]
+  "include": ["./src/**/*"]
 }

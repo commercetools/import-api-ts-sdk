@@ -4,11 +4,7 @@
     "outDir": "dist",
     "rootDir": "src",
     "noEmit": false,
-    "baseUrl": ".",
-    "paths": {
-      "@shared/*": ["../shared/dist/*"],
-      "~/*": ["./src/*"]
-    }
+    "baseUrl": "."
   },
   "include": ["./src/**/*"]
 }

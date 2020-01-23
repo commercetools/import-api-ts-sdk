@@ -685,9 +685,6 @@
       "rootDir": "./src",
       "baseUrl": "./",
       "paths": {
-        "@shared/*": [
-          "../shared/dist/*"
-        ],
         "~/*": [
           "./src/*"
         ]

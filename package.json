@@ -12,9 +12,7 @@
     "url": "https://github.com/commercetools/import-api-ts-sdk/issues"
   },
   "scripts": {
-    "build": "tsc -b .",
-    "build:updatePaths": "yarn workspaces run buildPath",
-    "postbuild": "yarn build:updatePaths"
+    "build": "yarn workspaces run build"
   },
   "devDependencies": {
     "@hapi/hapi": "^19.0.5",

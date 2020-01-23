@@ -1,7 +1,6 @@
 {
   "extends": "../tsconfig.settings.json",
   "compilerOptions": {
-
     "strictNullChecks": true,
     "strictFunctionTypes": true,
     "noFallthroughCasesInSwitch": true,
@@ -16,16 +15,13 @@
     "noUnusedLocals": true,
     "strictPropertyInitialization": true,
     "strict": true,
-    
     "outDir": "dist",
     "rootDir": "src",
     "noEmit": false,
     "baseUrl": ".",
     "paths": {
-      "@shared/*": ["../shared/dist/*"],
       "~/*": ["./src/*"]
     }
   },
-  "include": ["./src/**/*"],
-  "references": [{ "path": "../shared" }]
+  "include": ["./src/**/*"]
 }

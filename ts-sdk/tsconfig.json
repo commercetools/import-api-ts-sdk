@@ -5,11 +5,7 @@
     "rootDir": "src",
     "declaration": true,
     "noEmit": false,
-    "baseUrl": ".",
-    "paths": {
-      "@shared/*": ["../shared/dist/*"],
-      "~/*": ["./src/*"]
-    }
+    "baseUrl": "."
   },
   "include": ["./src/**/*", "./test/**/*"]
 }
