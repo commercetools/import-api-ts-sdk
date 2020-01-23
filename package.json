@@ -17,6 +17,7 @@
     "postbuild": "yarn build:updatePaths"
   },
   "devDependencies": {
+    "@hapi/hapi": "^19.0.5",
     "rimraf": "^3.0.0",
     "tscpaths": "^0.0.9",
     "typescript": "^3.7.4"
