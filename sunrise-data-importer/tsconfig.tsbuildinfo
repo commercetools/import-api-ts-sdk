@@ -350,8 +350,8 @@
         "signature": "b6770f2c97185184c6e225ab261ca2c8d0285a31ffd159abbff667c53849fe40"
       },
       "./src/sendimportrequest.ts": {
-        "version": "a3096964562dc68872e37b18a686e00a840e321228db883ead9327f47dfedd70",
-        "signature": "fa978ddd2be43273966272538e455661b34747c1e4cedca3d4850d9e567b2a55"
+        "version": "303dda7ac02b5906b6a90fdaa6591caf3f55b1d6da1976100efb708761b2ff7f",
+        "signature": "e17a6c124f61d94dacb2a47988b1db07b1979a16998467aed0bec6a55369658e"
       },
       "./src/transformstream.ts": {
         "version": "fb994ffac23e441ed1fbeb565fa94ea0fee970f2f27ade44212b217735b717ab",
@@ -646,7 +646,7 @@
         "signature": "4d43d37e4a5b251673235a42fa3c7486c7bee776d6c969456df19ecb7b38f09b"
       },
       "./src/sunrise-data-importer.ts": {
-        "version": "7cb15c6f5d1eb6d910a0be16fcc1cdc429ca1eb64a5db15d3b0d3348d169897f",
+        "version": "4cb0b8546b825f87e92137a56fb31e08889180014dda0b38c869ac845be7a4a0",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../node_modules/reflect-metadata/index.d.ts": {
@@ -1957,8 +1957,8 @@
         "../node_modules/@types/node/path.d.ts",
         "../node_modules/fast-csv/build/src/index.d.ts",
         "../node_modules/@types/node/stream.d.ts",
-        "./node_modules/@commercetools/import-api-ts-sdk/dist/generated/index.d.ts",
         "./src/necessary-middlewares/ctp_middlware.ts",
+        "./node_modules/@commercetools/import-api-ts-sdk/dist/generated/index.d.ts",
         "./src/aggregateimportrequest.ts",
         "./src/filterstream.ts",
         "./src/sendimportrequest.ts",

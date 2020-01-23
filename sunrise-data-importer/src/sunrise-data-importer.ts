@@ -8,40 +8,36 @@ import {Transform} from 'stream';
 import {createAuthMiddlewareForClientCredentialsFlow} from '@commercetools/sdk-middleware-auth';
 import {createHttpMiddleware} from '@commercetools/sdk-middleware-http';
 import {createClient, ClientResponse} from '@commercetools/sdk-client';
-import {ApiRoot} from '@commercetools/import-api-ts-sdk';
 import {middlewareFromCtpClient} from '~/necessary-middlewares/ctp_middlware';
-import {ProductImport} from '@commercetools/import-api-ts-sdk';
-import {PriceImport} from '@commercetools/import-api-ts-sdk';
-import {ImportSinkDraft} from '@commercetools/import-api-ts-sdk';
-import {ImportSummary} from '@commercetools/import-api-ts-sdk';
-import {ImportOperationPagedResponse} from '@commercetools/import-api-ts-sdk';
 import {
+  ApiRoot,
   Attribute,
-  ProductVariantImport,
-} from '@commercetools/import-api-ts-sdk';
-import {
-  LocalizedString,
+  CategoryImport,
+  CategoryImportRequest,
   CategoryKeyReference,
-  ProductTypeKeyReference,
-  ProductKeyReference,
-  ProductVariantKeyReference,
+  ImportOperationPagedResponse,
   ImportResourceType,
-  ProcessingState,
+  ImportSinkDraft,
+  ImportSummary,
+  LocalizedString,
   Money,
+  PriceImport,
+  PriceImportRequest,
+  ProcessingState,
+  ProductImport,
+  ProductImportRequest,
+  ProductKeyReference,
+  ProductTypeImportRequest,
+  ProductTypeKeyReference,
+  ProductVariantImport,
+  ProductVariantImportRequest,
+  ProductVariantKeyReference
 } from '@commercetools/import-api-ts-sdk';
 
 import {AggregateImportRequest} from './AggregateImportRequest';
 import {FilterStream} from './FilterStream';
 import {SendImportRequest} from './SendImportRequest';
 import {TransformStream} from './TransformStream';
-import {
-  CategoryImportRequest,
-  ProductImportRequest,
-  ProductVariantImportRequest,
-  ProductTypeImportRequest,
-  PriceImportRequest,
-} from '@commercetools/import-api-ts-sdk';
-import {CategoryImport} from '@commercetools/import-api-ts-sdk';
 
 function createApiBuilderFromCtpClient(ctpClient: any): ApiRoot {
   return new ApiRoot({
