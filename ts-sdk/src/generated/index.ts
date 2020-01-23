@@ -12,7 +12,7 @@
  */
 
 //models
-export * from "./models/common";
+export * from "./models/categories";
 export * from "./models/common";
 export * from "./models/errors";
 export * from "./models/importoperations";
@@ -29,3 +29,5 @@ export * from "./client/api-root";
 
 //Common package
 export * from "./base/common-types";
+export * from "./base/local-common-types";
+export * from "./base/requests-utils";

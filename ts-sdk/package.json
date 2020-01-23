@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "commercetools Import-API TypeScript SDK",
   "repository": {
     "type": "git",
@@ -15,12 +15,12 @@
     "url": "https://github.com/commercetools/import-api-ts-sdk/issues"
   },
   "scripts": {
-    "prebuild": "rimraf dist/**",
+    "prebuild": "rimraf dist/** tsconfig.tsbuildinfo",
     "prepublish": "yarn build",
     "build": "tsc -b ."
   },
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "dist/generated/index.js",
+  "types": "dist/generated/index.d.ts",
   "files": [
     "dist"
   ],
