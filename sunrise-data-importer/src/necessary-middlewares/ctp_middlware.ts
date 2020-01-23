@@ -1,41 +1,38 @@
-import {
-  Middleware,
-  MiddlewareArg,
-} from '@shared/generated/import-api-client/base/common-types'
+import { Middleware, MiddlewareArg } from "@commercetools/import-api-ts-sdk";
 
 export function middlewareFromCtpClient(client: any): Middleware {
   return async (middlewareArg: MiddlewareArg) =>
-    handleRequest(client, middlewareArg)
+    handleRequest(client, middlewareArg);
 }
 
 async function handleRequest(
   client: any,
   middlewareArg: MiddlewareArg
 ): Promise<MiddlewareArg> {
-  const { request } = middlewareArg
+  const { request } = middlewareArg;
 
   const modifiedRequest = {
     ...request,
-    uri: removeBaseUrl(request.uri),
-  }
+    uri: removeBaseUrl(request.uri)
+  };
 
   try {
-    const result = await client.execute(modifiedRequest)
-    const { uri, error, ...response } = result
+    const result = await client.execute(modifiedRequest);
+    const { uri, error, ...response } = result;
 
     return middlewareArg.next({
       ...middlewareArg,
       response,
-      error,
-    })
+      error
+    });
   } catch (error) {
     return middlewareArg.next({
       ...middlewareArg,
-      error,
-    })
+      error
+    });
   }
 }
 
 function removeBaseUrl(url: string) {
-  return url.replace(/^(?:\/\/|[^\/]+)*\//, '/')
+  return url.replace(/^(?:\/\/|[^\/]+)*\//, "/");
 }

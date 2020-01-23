@@ -1,10 +1,10 @@
 import { Transform } from 'stream'
-import { ApiRequest } from '@shared/generated/import-api-client/base/requests-utils'
+import { ApiRequest } from '@commercetools/import-api-ts-sdk'
 import {
   ImportResponse,
   ImportRequest,
-} from '@shared/generated/import-api-model/importrequests'
-import { ClientResponse } from '@shared/generated/import-api-client/base/common-types'
+} from '@commercetools/import-api-ts-sdk'
+import { ClientResponse } from '@commercetools/import-api-ts-sdk'
 
 /**
  * This sends a given import request while limiting the number of max requests and returns the result of the request.

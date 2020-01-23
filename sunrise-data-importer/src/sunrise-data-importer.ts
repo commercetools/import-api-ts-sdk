@@ -8,17 +8,17 @@ import {Transform} from 'stream';
 import {createAuthMiddlewareForClientCredentialsFlow} from '@commercetools/sdk-middleware-auth';
 import {createHttpMiddleware} from '@commercetools/sdk-middleware-http';
 import {createClient, ClientResponse} from '@commercetools/sdk-client';
-import {ApiRoot} from '@shared/generated/import-api-client/client/api-root';
+import {ApiRoot} from '@commercetools/import-api-ts-sdk';
 import {middlewareFromCtpClient} from '~/necessary-middlewares/ctp_middlware';
-import {ProductImport} from '@shared/generated/import-api-model/products';
-import {PriceImport} from '@shared/generated/import-api-model/prices';
-import {ImportSinkDraft} from '@shared/generated/import-api-model/importsinks';
-import {ImportSummary} from '@shared/generated/import-api-model/importsummaries';
-import {ImportOperationPagedResponse} from '@shared/generated/import-api-model/importoperations';
+import {ProductImport} from '@commercetools/import-api-ts-sdk';
+import {PriceImport} from '@commercetools/import-api-ts-sdk';
+import {ImportSinkDraft} from '@commercetools/import-api-ts-sdk';
+import {ImportSummary} from '@commercetools/import-api-ts-sdk';
+import {ImportOperationPagedResponse} from '@commercetools/import-api-ts-sdk';
 import {
   Attribute,
   ProductVariantImport,
-} from '@shared/generated/import-api-model/productvariants';
+} from '@commercetools/import-api-ts-sdk';
 import {
   LocalizedString,
   CategoryKeyReference,
@@ -28,7 +28,7 @@ import {
   ImportResourceType,
   ProcessingState,
   Money,
-} from '@shared/generated/import-api-model/common';
+} from '@commercetools/import-api-ts-sdk';
 
 import {AggregateImportRequest} from './AggregateImportRequest';
 import {FilterStream} from './FilterStream';
@@ -40,8 +40,8 @@ import {
   ProductVariantImportRequest,
   ProductTypeImportRequest,
   PriceImportRequest,
-} from '@shared/generated/import-api/model/importrequests';
-import {CategoryImport} from '@shared/generated/import-api/model/categories';
+} from '@commercetools/import-api-ts-sdk';
+import {CategoryImport} from '@commercetools/import-api-ts-sdk';
 
 function createApiBuilderFromCtpClient(ctpClient: any): ApiRoot {
   return new ApiRoot({

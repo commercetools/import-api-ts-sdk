@@ -2,7 +2,7 @@ import { Transform } from 'stream'
 import {
   ImportResource,
   ImportResourceType,
-} from '@shared/generated/import-api-model/common'
+} from '@commercetools/import-api-ts-sdk'
 
 /**
  * This transform aggregates import resources into a corresponding import request.
