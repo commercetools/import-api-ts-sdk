@@ -1,15 +1,27 @@
 {
   "extends": "../tsconfig.settings.json",
   "compilerOptions": {
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedParameters": true,
+    "alwaysStrict": true,
+    "allowUnreachableCode": false,
+    "pretty": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": false,
+    "allowJs": false,
+    "noUnusedLocals": true,
+    "strictPropertyInitialization": true,
+    "strict": true,
     "outDir": "dist",
     "rootDir": "src",
     "noEmit": false,
     "baseUrl": ".",
     "paths": {
-      "@shared/*": ["../shared/dist/*"],
       "~/*": ["./src/*"]
     }
   },
-  "include": ["./src/**/*", "./test/**/*"],
-  "references": [{"path": "../shared"}]
+  "include": ["./src/**/*"]
 }

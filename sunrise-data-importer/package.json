@@ -1,0 +1,34 @@
+{
+  "name": "sunrise-data-importer",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@commercetools/import-api-ts-sdk": "^0.0.6",
+    "@commercetools/sdk-client": "^1.5.10",
+    "@commercetools/sdk-middleware-auth": "^5.1.3",
+    "@commercetools/sdk-middleware-http": "^4.0.9",
+    "fast-csv": "^3.4.0",
+    "node-fetch": "^2.3.0"
+  },
+  "scripts": {
+    "prebuild": "rimraf ./dist && rimraf ./tsconfig.tsbuildinfo",
+    "prestart": "yarn build",
+    "predebug": "yarn build",
+    "start": "node ./dist/sunrise-data-importer.js",
+    "debug": "node $NODE_DEBUG_OPTION ./dist/sunrise-data-importer.js",
+    "build:live": "nodemon --watch 'src/**/*.ts' --exec 'ts-node -r tsconfig-paths/register' src/sunrise-data-importer.ts",
+    "build": "tsc -b .",
+    "postbuild": "yarn run buildPath",
+    "buildPath": "tscpaths -p tsconfig.json -s ./src -o ./dist",
+    "test": "jest --passWithNoTests",
+    "lint": "tslint -c ./tslint.json './src/**/*.ts*'"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "roots": [
+      "test"
+    ]
+  }
+}
