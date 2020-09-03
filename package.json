@@ -15,7 +15,7 @@
     "build": "yarn workspaces run build"
   },
   "devDependencies": {
-    "@hapi/hapi": "^19.0.5",
+    "@hapi/hapi": "^19.1.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "tscpaths": "^0.0.9",
